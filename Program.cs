@@ -32,7 +32,7 @@ namespace SnakeGame
 
         static void Main(string[] args)
         {
-            Console.WriteLine("-------------- Welcome to Electronic  art ----------------");
+            Console.WriteLine("-------------- Welcome to Electronic  Mart ----------------");
             Console.WriteLine("Enter Product Name ");
             string name = Console.ReadLine();
             Console.WriteLine("Enter origional price");
